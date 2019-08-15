@@ -2,6 +2,7 @@ README!
 The feature of the file:
   1, The version of the excel: 2019
   2, My formulas use ";" instead of ","
+  Just if you are interested in code check the point 3, and 4!
   3, If you do NOT have Developer tab: File/Options/Customize Ribbon -> on the right side of the window check in the Developer option
   4, If you would like to check the code: Tab:Developer->Visual Basic button->Module: Filtering
 About the file:
